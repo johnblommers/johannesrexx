@@ -4,6 +4,8 @@
 
 [Wordmark](https://wordmarkapp.com/) is in active development. A huge feature is single-pane live-preview editing much like Typora provides. It also looks really good and supports the Dark Mode theme. Plus it's cross-platform, as it's based on Electron.
 
+This note is here because Wordmark supports publishing to GitHub Pages, making it easy to quickly put up a revised document or a new one.
+
 ## Features
 
 - Themes
